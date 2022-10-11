@@ -6,10 +6,10 @@
 
 const googleTranslateConfig = {
     /* Original language */
-    lang: "ru",
+    lang: "en",
     /* The language we translate into on the first visit*/
     /* Язык, на который переводим при первом посещении */
-    // langFirstVisit: 'en',
+    // langFirstVisit: 'ru',
     /* Если скрипт не работает на поддомене, 
     раскомментируйте и
     укажите основной домен в свойстве domain */
