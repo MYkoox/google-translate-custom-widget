@@ -5,11 +5,13 @@
  *****************************************************/
 
 const googleTranslateConfig = {
-    /* Original language */
-    lang: "en",
-    /* The language we translate into on the first visit*/
-    /* Язык, на который переводим при первом посещении */
-    // langFirstVisit: 'en',
+   	/* Original language */
+	lang: "ru",
+
+	/* The language we translate into on the first visit*/
+	/* Язык, на который переводим при первом посещении */
+	/* langFirstVisit: 'en', */
+    
     /* Если скрипт не работает на поддомене, 
     раскомментируйте и
     укажите основной домен в свойстве domain */
