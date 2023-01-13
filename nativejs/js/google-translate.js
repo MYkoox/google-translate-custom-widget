@@ -6,14 +6,14 @@
 
 const googleTranslateConfig = {
     /* Original language */
-    lang: "en",
+    lang: "ru",
     /* The language we translate into on the first visit*/
     /* Язык, на который переводим при первом посещении */
-    // langFirstVisit: 'ru',
+    // langFirstVisit: 'en',
     /* Если скрипт не работает на поддомене, 
     раскомментируйте и
     укажите основной домен в свойстве domain */
-    domain: "myqx.ru"
+    domain: "myqx.xyz"
 };
 
 function TranslateInit() {
